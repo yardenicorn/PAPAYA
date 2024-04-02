@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GameOverLayer
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 3b14e8997334a4cd3936a72356d95d3a, type: 3}
+    - {fileID: 2800000, guid: c19071002e9e84702bc525dfc11cf64c, type: 3}
+    - {fileID: 2800000, guid: 7aa4c3870ef6b455d8083ede0991e25e, type: 3}
+    - {fileID: 2800000, guid: 53944a45fe6e646a2b2c2dd5d501ab32, type: 3}
+    - {fileID: 2800000, guid: 0eaf9262662724bb8a027bf917e0dea8, type: 3}
+    - {fileID: 2800000, guid: a373729748e5d4bff8ae4701264dd139, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites: []
+  m_PackedSpriteNamesToIndex: []
+  m_RenderDataMap: {}
+  m_Tag: GameOverLayer
+  m_IsVariant: 0
